@@ -7,3 +7,6 @@ img{
 ol{
     font-family: 'Courier New', Courier, monospace;
 }
+script{
+    text-decoration: overline;
+}
